@@ -22,4 +22,4 @@ PHP를 공부하자
 
 <p> PHP에 관심 있으신 분들은 ctrl+F를 통해 모르는 것을 찾아가거나, 순서대로 해당 코드들을 직접
   따라 치며, PHP를 알아가시길 바랍니다. </p>
-<p> 좀 더 자세한 설명을 원한다면 <a href="https://blog.naver.com/youbeen2798" target="_blank"> 블로그</a>에서 PHP 카테고리를 참고하시면 됩니다. </p>
+<p> 좀 더 자세한 설명 혹은 출력 결과 화면을 원한다면 <a href="https://blog.naver.com/youbeen2798" target="_blank"> 블로그</a>에서 PHP 카테고리를 참고하시면 됩니다. </p>
